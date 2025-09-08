@@ -21,8 +21,8 @@ export default function Footer() {
               <Image
                 src="/assets/Cnn_Logo.png"
                 alt="CNN Logo"
-                width={120}
-                height={60}
+                width={140}
+                height={70}
                 className="mx-auto md:mx-0"
               />
             </Link>

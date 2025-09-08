@@ -36,7 +36,7 @@ export default function Navbar() {
             About
           </Link>
           <Link href="/faq" className="hover:text-blue-600">
-            Faq
+            FAQ
           </Link>
           <Link href="/forms" className="hover:text-blue-600">
             Open Account

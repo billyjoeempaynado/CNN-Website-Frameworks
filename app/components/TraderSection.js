@@ -24,7 +24,7 @@ export default function TraderSection() {
   ];
 
   return (
-    <section className="py-12 px-6 bg-gray-50 dark:bg-gray-900">
+    <section className="py-12 px-6 bg-gray-100 dark:bg-gray-900">
       <h2 className="text-2xl font-semibold text-center mb-10 text-gray-900 dark:text-gray-100">
         Our Traders
       </h2>

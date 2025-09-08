@@ -9,7 +9,7 @@ export default function BoardOfDirectors() {
   };
 
   return (
-    <section className="section-board py-16 bg-white dark:bg-gray-900">
+    <section className="section-board py-16 bg-gray-100 dark:bg-gray-900">
       <div className="container mx-auto px-6">
         <motion.h2
           initial={{ opacity: 0, y: -20 }}
