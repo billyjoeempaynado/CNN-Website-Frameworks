@@ -28,7 +28,7 @@ export default function DescriptionBoxes() {
   ];
 
   return (
-    <section className="section-3-description bg-gray-100 py-20">
+    <section className="section-3-description bg-gray-100 dark:bg-gray-900 py-20">
       <div className="container mx-auto grid md:grid-cols-3 gap-8 px-6">
         {boxes.map((box, index) => (
           <motion.div
