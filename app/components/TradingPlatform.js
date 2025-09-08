@@ -59,6 +59,7 @@ export default function TradingPlatform() {
                 height={200}
                 alt="Desktop trading platform"
                 className="object-contain"
+                priority
               />
             </div>
           </motion.div>
@@ -78,6 +79,7 @@ export default function TradingPlatform() {
                 height={150}
                 alt="Mobile trading app"
                 className="object-contain"
+                priority
               />
             </div>
           </motion.div>

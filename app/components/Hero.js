@@ -56,6 +56,8 @@ export default function Home() {
               height={400}
               alt="Hero illustration"
               className="hero-img rounded-lg"
+              style={{ width: "100%", height: "auto" }}
+              priority
             />
           </motion.div>
         </div>

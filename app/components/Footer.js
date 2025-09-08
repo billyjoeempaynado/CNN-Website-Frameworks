@@ -24,6 +24,7 @@ export default function Footer() {
                 width={140}
                 height={70}
                 className="mx-auto md:mx-0"
+                priority
               />
             </Link>
 

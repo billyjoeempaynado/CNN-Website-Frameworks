@@ -21,6 +21,7 @@ export default function Navbar() {
             width={40}
             height={40}
             className="rounded"
+            priority
           />
           <span className="text-2xl font-bold text-green-600 dark:text-green-500">
             CNN Securities
