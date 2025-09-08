@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <main>
       {/* Hero Section */}
-          <section className="section-hero bg-gray-100 dark:bg-gray-900">
+          <section className="mt-10 section-hero bg-gray-100 dark:bg-gray-900">
         <div className="hero grid md:grid-cols-2 gap-12 items-center container mx-auto px-6">
           {/* Text */}
           <motion.div
