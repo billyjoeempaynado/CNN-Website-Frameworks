@@ -69,7 +69,7 @@ export default function FormsPage() {
       </motion.div>
 
       {/* Cards */}
-      <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+      <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
         {/* Individual Form */}
         <motion.div
           className="bg-white dark:bg-gray-800 shadow-lg rounded-xl p-6 text-center hover:shadow-xl transition"
@@ -88,7 +88,7 @@ export default function FormsPage() {
           <Link
             href="/assets/Individual_Caif.pdf"
             target="_blank"
-            className="inline-block px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
+            className="inline-block px-6 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition"
           >
             Download Individual Form
           </Link>
@@ -113,9 +113,33 @@ export default function FormsPage() {
           <Link
             href="/assets/Corporate_Caif.pdf"
             target="_blank"
-            className="inline-block px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
+            className="inline-block px-6 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition"
           >
             Download Corporate Form
+          </Link>
+        </motion.div>
+
+        {/* Withdrawal Form */}
+        <motion.div
+          className="bg-white dark:bg-gray-800 shadow-lg rounded-xl p-6 text-center hover:shadow-xl transition"
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          variants={fadeInUp}
+          transition={{ duration: 1.2 }}
+        >
+          <h2 className="text-xl font-semibold mb-2 text-gray-900 dark:text-gray-100">
+            Withdrawal Form
+          </h2>
+          <p className="text-gray-600 dark:text-gray-400 mb-4">
+            Use this form to request withdrawal of funds from your account.
+          </p>
+          <Link
+            href="/assets/Withdrawal-Form.pdf"
+            target="_blank"
+            className="inline-block px-6 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition"
+          >
+            Download Withdrawal Form
           </Link>
         </motion.div>
       </div>
