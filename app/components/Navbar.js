@@ -40,7 +40,7 @@ export default function Navbar() {
             FAQ
           </Link>
           <Link href="/forms" className="hover:text-blue-600">
-            Open Account
+           Forms
           </Link>
         </div>
 
@@ -103,7 +103,7 @@ export default function Navbar() {
                   className="text-lg font-semibold text-gray-900 dark:text-gray-100 hover:text-blue-600"
                   onClick={toggleMenu}
                 >
-                  Open Account
+                  Forms
                 </Link>
               </nav>
             </motion.div>
