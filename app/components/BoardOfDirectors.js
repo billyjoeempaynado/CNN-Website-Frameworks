@@ -10,12 +10,12 @@ export default function BoardOfDirectors() {
 
   const people = [
     { name: "Georgie Cabo Cheng", role: "Nominee / Chairman", image: "/assets/President.jpg" },
-    { name: "Malcolm Ng", role: "Director", image: "/assets/Malcolm_Ng_Gray.png" },
-    { name: "Gianna Cabocheng", role: "Director", image: "/assets/Gianna_CaboCheng_gray.png" },
-    { name: "Ben Chua Javellana", role: "Independent Director", image: "/assets/Ben_Chua_Gray.png" },
-    { name: "Stephanie Tan", role: "Independent Director", image: "/assets/Stephanie_Tan_Gray.png" },
-    { name: "Janet Cabocheng", role: "Corporate Secretary", image: "/assets/Janet_CaboCheng_Gray.png" },
-    { name: "Bongi Ng", role: "Treasurer", image: "/assets/Bongie_Ng_Gray.png" },
+    { name: "Malcolm Ng", role: "Director", image: "/assets/Malcolm_Ng_Gray.PNG" },
+    { name: "Gianna Cabocheng", role: "Director", image: "/assets/Gianna_CaboCheng_Gray.PNG" },
+    { name: "Ben Chua Javellana", role: "Independent Director", image: "/assets/Ben_Chua_Gray.PNG" },
+    { name: "Stephanie Tan", role: "Independent Director", image: "/assets/Stephanie_Tan_Gray.PNG" },
+    { name: "Janet Cabocheng", role: "Corporate Secretary", image: "/assets/Janet_CaboCheng_Gray.PNG" },
+    { name: "Bongi Ng", role: "Treasurer", image: "/assets/Bongie_Ng_Gray.PNG" },
     { name: "May Magistrado", role: "Associated Person", image: "/assets/May-Magistrado.jpg" },
   ];
 

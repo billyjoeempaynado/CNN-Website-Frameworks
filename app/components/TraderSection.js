@@ -22,12 +22,12 @@ export default function TraderSection() {
     { img: "Marke-Arellano.jpg", name: "Marke Arellano" },
     { img: "Michael-Chua.jpg", name: "Michael Chua" },
     { img: "President.jpg", name: "Georgie Cabo Cheng" },
-    { img: "Rafael_Munoz_Gray.png", name: "Rafael Munoz" },
+    { img: "Rafael_Munoz_Gray.PNG", name: "Rafael Munoz" },
     { img: "Charles-Chua.jpg", name: "Charles Chua" },
-    { img: "Janet_CaboCheng_Gray.png", name: "Janet Cabocheg" },
+    { img: "Janet_CaboCheng_Gray.PNG", name: "Janet Cabocheg" },
     { img: "Wilfred-Uy.jpg", name: "Wilfred Uy" },
     { img: "Christopher-Guzman.jpg", name: "Christopher Guzman" },
-    { img: "Julie_Go_Gray.png", name: "Julie Cua Go" },
+    { img: "Julie_Go_Gray.PNG", name: "Julie Cua Go" },
   ];
 
   return (
