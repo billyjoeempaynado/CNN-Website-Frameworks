@@ -15,7 +15,7 @@ export default function BoardOfDirectors() {
     { name: "Ben Chua Javellana", role: "Independent Director", image: "/assets/Ben_Chua_Gray.PNG" },
     { name: "Stephanie Tan", role: "Independent Director", image: "/assets/Stephanie_Tan_Gray.PNG" },
     { name: "Janet Cabocheng", role: "Corporate Secretary", image: "/assets/Janet_CaboCheng_Gray.PNG" },
-    { name: "Bongi Ng", role: "Treasurer", image: "/assets/Bongie_Ng_Gray.PNG" },
+    { name: "Bongie Ng", role: "Treasurer", image: "/assets/Bongie_Ng_Gray.PNG" },
     { name: "May Magistrado", role: "Associated Person", image: "/assets/May-Magistrado.jpg" },
   ];
 
